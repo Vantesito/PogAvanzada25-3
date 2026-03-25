@@ -31,4 +31,4 @@ El proyecto está configurado para ser ejecutado fácilmente a través de Maven 
 ### Ejecutar las Pruebas (Tests)
 Para validar la correctitud de los algoritmos y comprobar los casos borde (arreglos vacíos, elementos únicos, repetidos, etc.), abre una terminal en la raíz del proyecto y ejecuta:
 ```bash
-```mvn test
+mvn test
