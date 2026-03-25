@@ -29,4 +29,6 @@ Localiza la posición de un elemento objetivo dentro de un arreglo.
 El proyecto está configurado para ser ejecutado fácilmente a través de Maven y cualquier IDE moderno compatible con Java (como IntelliJ IDEA)
 
 ### Ejecutar las Pruebas (Tests)
-Para validar la correctitud de los algoritmos y comprobar los casos borde (arreglos vacíos, elementos únicos, repetidos, etc.), abre
+Para validar la correctitud de los algoritmos y comprobar los casos borde (arreglos vacíos, elementos únicos, repetidos, etc.), abre una terminal en la raíz del proyecto y ejecuta:
+```bash
+```mvn test
