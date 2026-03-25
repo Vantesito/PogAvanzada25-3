@@ -26,8 +26,7 @@ Localiza la posición de un elemento objetivo dentro de un arreglo.
 2. **Búsqueda Binaria:** Algoritmo de divide y vencerás que reduce el espacio de búsqueda a la mitad en cada paso (requiere que el arreglo esté ordenado previamente).
 
 ## Instrucciones de Ejecución
-
-El proyecto está configurado para ser ejecutado fácilmente a través de Maven y cualquier IDE moderno compatible con Java (como IntelliJ IDEA).
+El proyecto está configurado para ser ejecutado fácilmente a través de Maven y cualquier IDE moderno compatible con Java (como IntelliJ IDEA)
 
 ### Ejecutar las Pruebas (Tests)
 Para validar la correctitud de los algoritmos y comprobar los casos borde (arreglos vacíos, elementos únicos, repetidos, etc.), abre
